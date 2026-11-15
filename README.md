@@ -9,7 +9,6 @@
 ### 🖥️ ผลการทดสอบการส่งข้อความ
 
 #### รูปที่ 1: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ TCP Echo
-<img width="1917" height="1016" alt="Screenshot 2026-11-15 142947" src=Screenshot 2026-11-15 142947.png" />
-
+<img width="1917" height="1017" alt="UDP" src="Screenshot 2026-11-15 142947.png" />
 #### รูปที่ 2: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ UDP Echo
 <img width="1917" height="1017" alt="UDP" src="UDP.png" />
